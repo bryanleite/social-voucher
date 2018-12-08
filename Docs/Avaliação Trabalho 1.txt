@@ -1,0 +1,11 @@
+Faltou um botão de entrar na tela de login.
+O * vai na frente dos campos quando os mesmos forem obrigatórios. Se a tela possui todos obrigatórios, não precisa do *. Não quebrar label em linhas.
+Manter padrão das labels nas telas. Em cada uma está de tamanho e cor distinta.
+Campos textos alinhas na esquerda e numéricos na direita, nunca centralizar como o caso das datas na tela da criação de eventos.
+Terá uma tela para cadastro das beneficiárias?
+
+Faltou o desenho de algumas telas: listagens, comentários, entre outras de modo que não consegui avaliar a padronização de alguns 
+elementos importantes.
+
+Nota: 7,1
+
